@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  -[Algorithms Practice](https://github.com/Bakar12/Algorithms-Practice/tree/master) 
+  - [Algorithms Practice](https://github.com/Bakar12/Algorithms-Practice/tree/master) 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 - <b>Python</b>
   - [WebScrapper](https://github.com/Bakar12/WebScrapper)

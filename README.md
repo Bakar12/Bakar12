@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
     - [Algorithms Practice](https://github.com/Bakar12/Algorithms-Practice/tree/master) 
-- <b>Full Stack Web App</b>
+- <b>Web Development</b>
 - <b>Python</b>
   - [WebScrapper](https://github.com/Bakar12/WebScrapper)
 

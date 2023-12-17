@@ -10,7 +10,7 @@
 
 
 - <b>Python</b>
-  - [WebScrapper](https://github.com/Bakar12/WebScrapper)
+  - [WebScrapper](https://github.com/Bakar12/WebScrapper).
 
 
 

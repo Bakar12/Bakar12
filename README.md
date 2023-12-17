@@ -6,7 +6,7 @@
     - [Algorithms Practice](https://github.com/Bakar12/Algorithms-Practice/tree/master) 
 - <b>Web Development</b>
 - <b>Machine Learning</b>
-  - [Spam Detection]([https://github.com/Bakar12/WebScrapper](https://github.com/Bakar12/SpamDetection)
+  - [Spam Detection](https://github.com/Bakar12/SpamDetection).
 
 
 - <b>Python</b>

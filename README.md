@@ -5,6 +5,8 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
     - [Algorithms Practice](https://github.com/Bakar12/Algorithms-Practice/tree/master) 
 - <b>Web Development</b>
+- <b>Machine Learning</b>
+
 - <b>Python</b>
   - [WebScrapper](https://github.com/Bakar12/WebScrapper)
 

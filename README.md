@@ -6,12 +6,14 @@
     - [Algorithms Practice](https://github.com/Bakar12/Algorithms-Practice/tree/master) 
 - <b>Web Development</b>
 - <b>Machine Learning</b>
-  - [Spam Detection](https://github.com/Bakar12/SpamDetection).
+  - [Spam Detection](https://github.com/Bakar12/SpamDetection)
 
 
 - <b>Python</b>
-  - [WebScrapper](https://github.com/Bakar12/WebScrapper).
+  - [WebScrapper](https://github.com/Bakar12/WebScrapper)
 
+- <b>Chrome Extension</b>
+    - [Search Google Tab](https://github.com/Bakar12/SearchTabExtension)
 
 
 <h2> 🤳 Connect with me:</h2>

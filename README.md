@@ -11,7 +11,7 @@
 
 - <b>Python</b>
   - [WebScrapper](https://github.com/Bakar12/WebScrapper)
-
+  - [Calculator](https://github.com/Bakar12/Calculator)
 - <b>Chrome Extension</b>
     - [Search Google Tab](https://github.com/Bakar12/SearchTabExtension)
 

@@ -3,7 +3,9 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-    - [Algorithms Practice](https://github.com/Bakar12/Algorithms-Practice/tree/master) 
+    - [Algorithms Practice](https://github.com/Bakar12/Algorithms-Practice/tree/master)
+    - [Data Structure Practice](https://github.com/Bakar12/Data-Structure)
+      
 - <b>Web Development</b>
 - <b>Machine Learning</b>
   - [Spam Detection](https://github.com/Bakar12/SpamDetection)

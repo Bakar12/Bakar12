@@ -9,6 +9,7 @@
 - <b>Web Development</b>
 - <b>Machine Learning</b>
   - [Spam Detection](https://github.com/Bakar12/SpamDetection)
+  - [Chatbot](https://github.com/Bakar12/Applied-AI-Chatbot-Coursework)
 
 
 - <b>Python</b>

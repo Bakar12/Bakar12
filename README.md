@@ -7,7 +7,7 @@
     - [Data Structure Practice](https://github.com/Bakar12/Data-Structure)
       
 - <b>Web Development</b>
-    - [Tech Repair Service](https://github.com/Bakar12/Tech-Repair-Service)
+    - [Tech Repair Service](https://github.com/Bakar12/Tech-Repair-Website)
 - <b>Machine Learning</b>
   - [Spam Detection](https://github.com/Bakar12/SpamDetection)
   - [Chatbot](https://github.com/Bakar12/Applied-AI-Chatbot-Coursework)

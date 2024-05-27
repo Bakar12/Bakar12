@@ -19,9 +19,15 @@
   - [Calculator](https://github.com/Bakar12/Calculator)
     
 - <b>Java</b>
-    - [Skin Consultation](https://github.com/Bakar12/Skin-Consultation)    
+    - [Skin Consultation](https://github.com/Bakar12/Skin-Consultation)
+     
 - <b>Chrome Extension</b>
     - [Search Google Tab](https://github.com/Bakar12/SearchTabExtension)
+ 
+- <b>Symptom Diagnoses Web Application</b>
+    - [Prototype](https://github.com/Bakar12/ProjectPrototypeFYP)
+    - [Final Year Project](https://github.com/Bakar12/FinalYearProject)
+
 
 
 <h2> 🤳 Connect with me:</h2>

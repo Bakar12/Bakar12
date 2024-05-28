@@ -17,6 +17,7 @@
 - <b>Python</b>
   - [WebScrapper](https://github.com/Bakar12/WebScrapper)
   - [Calculator](https://github.com/Bakar12/Calculator)
+  - [Sudoku](https://github.com/Bakar12/Sudoku)
     
 - <b>Java</b>
     - [Skin Consultation](https://github.com/Bakar12/Skin-Consultation)

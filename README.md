@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abubakar Mukadam! <br/><a href="https://github.com/Bakar12/">Programmer</a>, <a>Student</a> <a href="(https://www.linkedin.com/in/abubakar-mukadam-386641215/)"> </h1>
+<h1>Hi, I'm Abubakar Mukadam! <br/><a href="https://github.com/Bakar12/">Programmer</a>, <a>Graduate</a> <a href="(https://www.linkedin.com/in/abubakar-mukadam-386641215/)"> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
